@@ -49,6 +49,8 @@ Team Member 3:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 We hereby submit jupyter notebooks of implementation of project.
+
+
 [Main Project](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/FINAL%20PROJECT%20MAIN.ipynb)
 
 
@@ -56,6 +58,7 @@ We hereby submit jupyter notebooks of implementation of project.
 
 
 Qmod files for each Round
+
 [Round 1 code 1](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round%201%20code%201.qmod)
 
 [Round 1 code 2](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round%201%20code%202.qmod)
