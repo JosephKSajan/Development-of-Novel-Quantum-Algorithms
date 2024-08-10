@@ -1,0 +1,28 @@
+qfunc callin(l: qbit, m: qbit, k: qbit) {
+  ctrl: qbit[];
+  {l, m} -> ctrl;
+  CCX(ctrl, k);
+  ctrl -> {l, m};
+}
+
+qfunc arithmetic(x1: qbit[], y1: qbit[]) {
+  CX(x1[2], y1[4]);
+  CX(x1[1], y1[2]);
+  CX(x1[0], y1[0]);
+  callin(x1[1], x1[2], y1[4]);
+  callin(x1[1], x1[2], y1[5]);
+  callin(x1[0], x1[1], y1[2]);
+  callin(x1[0], x1[1], y1[3]);
+  callin(x1[0], x1[2], y1[3]);
+  control (x1) {
+    X(y1[4]);
+  }
+}
+
+qfunc main(output x: qnum, output y: qnum, output res: qnum) {
+  allocate(3, x);
+  allocate(6, y);
+  hadamard_transform(x);
+  arithmetic(x, y);
+  res = y % 8;
+}
