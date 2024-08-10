@@ -72,7 +72,7 @@ Qmod files for each Round
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
-[Presentation deck](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Team%20QUANTiN%20Womanium%20Quantum%2BAI%20project.pptx)
+[Presentation deck]()
 
-See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
+See project presentation guidelines [here](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Team%20QUANTiN%20Womanium%20Quantum%2BAI%20project.pptx)
 
