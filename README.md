@@ -32,26 +32,33 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: JOSEPH K SAJAN
+ - Womanium Program Enrollment ID:WQ24-bhfQ7QxyFPscTap
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: ARUL JOY
+ - Womanium Program Enrollment ID:WQ24-4UHV2k6muXhFkbH
 
 
 Team Member 3:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
+ - Full Name: JESEENTHA K SAJAN
+ - Womanium Program Enrollment ID:WQ24-1wgtqkQrJFVyDLM
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
-
+We hereby submit jupyter notebooks of implementation of project.
+[Main Project](FINAL PROJECT MAIN.ipynb)
+[Failed Attempts-x^2 mod N circuit](FAILED ATTEMPTS-X^2 mod N circuit.ipynb)
+Qmod files for each Round
+[Round 1 code 1](Round 1 code 1.qmod)
+[Round 1 code 2](Round 1 code 2.qmod)
+[Round 2](Round 2.qmod)
+[Round 3 code 1](Round 3 code 1.qmod)
+[Round 3 code 2](round 3 code 2.qmod)
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
-
+[Presentation deck](Team QUANTiN Womanium Quantum+AI project.pptx)
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
