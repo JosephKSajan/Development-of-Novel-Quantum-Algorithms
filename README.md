@@ -49,10 +49,11 @@ Team Member 3:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 We hereby submit jupyter notebooks of implementation of project.
-[Main Project](FINAL PROJECT MAIN.ipynb)
+[Main Project](Development-of-Novel-Quantum-Algorithms
+/FINAL PROJECT MAIN.ipynb)
 [Failed Attempts-x^2 mod N circuit](FAILED ATTEMPTS-X^2 mod N circuit.ipynb)
 Qmod files for each Round
-[Round 1 code 1](Round 1 code 1.qmod)
+[Round 1 code 1](/Round 1 code 1.qmod)
 [Round 1 code 2](Round 1 code 2.qmod)
 [Round 2](Round 2.qmod)
 [Round 3 code 1](Round 3 code 1.qmod)
