@@ -50,15 +50,26 @@ _Include a comprehensive summary of all important information about your project
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 We hereby submit jupyter notebooks of implementation of project.
 [Main Project](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/FINAL%20PROJECT%20MAIN.ipynb)
+
+
 [Failed Attempts-x^2 mod N circuit](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/FAILED%20ATTEMPTS-X%5E2%20mod%20N%20circuit.ipynb)
+
+
 Qmod files for each Round
-[Round 1 code 1]()
-[Round 1 code 2](Round 1 code 2.qmod)
-[Round 2](Round 2.qmod)
-[Round 3 code 1](Round 3 code 1.qmod)
-[Round 3 code 2](round 3 code 2.qmod)
+[Round 1 code 1](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round%201%20code%201.qmod)
+
+[Round 1 code 2](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round%201%20code%202.qmod)
+
+[Round 2](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round%202.qmod)
+
+[Round 3 code 1](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round%203%20code%201.qmod)
+
+[Round 3 code 2](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/round%203%20code%202.qmod)
+
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
-[Presentation deck](Team QUANTiN Womanium Quantum+AI project.pptx)
+
+[Presentation deck](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Team%20QUANTiN%20Womanium%20Quantum%2BAI%20project.pptx)
+
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
