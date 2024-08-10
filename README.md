@@ -69,10 +69,24 @@ Qmod files for each Round
 
 [Round 3 code 2](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/round%203%20code%202.qmod)
 
+Qprog files for each Round
+
+[Round 1 code 1](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round1_code1.qprog)
+
+[Round 1 code 2](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round1code2.qprog)
+
+[Round 2](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round2.qprog)
+
+[Round 3 code 1](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round3code1.qprog)
+
+[Round 3 code 2](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Round3code2.qprog)
+
+
+
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
-[Presentation deck]()
+[Presentation deck](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Team%20QUANTiN%20Womanium%20Quantum%2BAI%20project.pptx)
 
-See project presentation guidelines [here](https://github.com/JosephKSajan/Development-of-Novel-Quantum-Algorithms/blob/main/Team%20QUANTiN%20Womanium%20Quantum%2BAI%20project.pptx)
+See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing )
 
